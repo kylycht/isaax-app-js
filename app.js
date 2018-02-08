@@ -7,4 +7,5 @@ setInterval(function() {
  console.log("-/- some important message -/-");
  console.log("-|- some important message -|-");
  console.log("-=- some important message -=-");
+ console.log("-0- some important message -0-");
 }, 10000);
